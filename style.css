@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: #86CACC;
+}
+#content h1{
+    display: flex;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: whitesmoke;
+}
+#quote{
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    font-size: larger;
+    text-align: center;
+    
+}
+#author{
+    display: flex;
+    justify-content: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+
+}
+/* .new-Quote{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    
+
+} */
+
+/* 
+
+#twitter{
+    display: flex;
+    justify-content: center;
+}
+#whatsapp{
+    display: flex;
+    justify-content: center;
+} */
+#share{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+
+}
+#new-Quote{
+    margin-right :5rem;
+
+}
+#twitter{
+    margin-right :5rem;
+    
+}
+#share a{
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: white;
+    border-width: medium;
+    
+}
+#new-Quote{
+    background-color:whitesmoke;
+}
